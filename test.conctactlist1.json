@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66f5b22d635e71124688aacc"
+  },
+  "Nom": "Ben",
+  "Prenom": "Moris",
+  "Email": "ben@gmail.com",
+  "âge": 26
+},
+{
+  "_id": {
+    "$oid": "66f5b22d635e71124688aacd"
+  },
+  "Nom": "Kefi",
+  "Prenom": "Anis",
+  "Email": "Kefi@gmail.com",
+  "âge": 15
+},
+{
+  "_id": {
+    "$oid": "66f5b22d635e71124688aace"
+  },
+  "Nom": "Emilie",
+  "Prenom": "Brouge",
+  "Email": "emilie.b@gmail.com",
+  "âge": 40
+}]
